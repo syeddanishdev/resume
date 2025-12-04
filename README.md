@@ -1,12 +1,11 @@
 # Danish Ali 
-![Profile views](https://komarev.com/ghpvc/?username=syeddanishdev&color=brightgreen)
 **Senior QA Automation Engineer | AI-Powered Testing Specialist**  
 Toronto (GTA) • 📧 syeddanishdev@gmail.com  
 [linkedin.com/in/syeddanishdev](https://linkedin.com/in/syeddanishdev) • [github.com/syeddanishdev](https://github.com/syeddanishdev)
 
 Download PDF → [Danish-Ali-Resume.pdf](./Danish-Ali-Resume.pdf)
 
-
+![Profile views](https://komarev.com/ghpvc/?username=syeddanishdev&color=brightgreen)
 ### Professional Summary
 Senior QA Engineer with 10+ years turning manual testing pain into AI-accelerated, self-maintaining automation.  
 Specialised in **Playwright + Generative AI (Google Gemini)** to auto-generate and self-heal E2E tests from plain English.  
